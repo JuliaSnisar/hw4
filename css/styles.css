@@ -176,7 +176,7 @@ img {
   |============================
 */
 .main {
-  background-color: var(--secondary-bgc);
+  background-color: #c4c4c4;
 }
 
 .hero-container {
